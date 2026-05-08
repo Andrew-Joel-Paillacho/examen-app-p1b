@@ -1,1 +1,1 @@
-# examen-app-p1b
+Implementar un login utilizando Supabase
